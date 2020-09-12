@@ -1,4 +1,4 @@
- CAST License v 0.5
+ CAST License v 0.6
 
  This code project (software) has copyright law obligations:
 
@@ -7,14 +7,19 @@
      - GNU General Public License v2.0 or later (SPDX: GPL-2.0-or-later)
      - Apache License 2.0 (SPDX: Apache-2.0)
      - MIT License (SPDX:MIT)
+    CODE USER can permanently change license of subsequent copies of this file
+    to one of stated above, that mean removing or replacing this file with 
+    appropriate license text of selected license as long as he respect 
+    oryginal author copyright in new license file
+    The same applies to license and copyright notes in source code files
 
  2. This program is distributed in the hope that it will be useful,
     but WITHOUT ANY WARRANTY; without even the implied warranty of
     MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. 
  
  3. As CODE CONTRIBUTOR or COPYRIGHT HOLDER You grant that CODE USER
-     can choose any free software license listed above and You will not limit 
-     open source  software license list in future if new circumstances
+     can choose any free software license listed in point 1 and You will not limit 
+     open source  software license options in future if new circumstances
      will emerge (e.g. license which better address cross license compatibility
      will appear or license which better address free software
      patents protection will appear)
